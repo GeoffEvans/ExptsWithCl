@@ -1,0 +1,6 @@
+*.hi
+*.o
+work/
+w2/
+*.wlf
+*.ini
